@@ -6,4 +6,4 @@ LeetCode.
 Kaggle.
 CodeChef.
 AtCoder.
-Topcoder. ```
+Topcoder.
